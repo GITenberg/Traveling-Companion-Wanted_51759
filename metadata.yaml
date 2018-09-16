@@ -1,0 +1,43 @@
+_repo: Traveling-Companion-Wanted_51759
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dillon, Leo
+    birthdate: &id001 1933
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: *id001
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+creator:
+  author:
+    agent_name: Wilson, Richard
+    alias: Wilson, Dick
+    birthdate: 1920
+    deathdate: 1987
+    gutenberg_agent_id: '34343'
+    url: http://www.gutenberg.org/2009/agents/34343
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronauts -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Underground areas -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- GITenberg
+title: Traveling Companion Wanted
+url: http://www.gutenberg.org/ebooks/51759
